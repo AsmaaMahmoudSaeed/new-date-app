@@ -61,8 +61,8 @@ This will launch the Streamlit application in your default web browser.
 1. Start the Streamlit app as described above.
 2. Upload an image of a date fruit with suspected disease.
 3. Choose either the Roboflow API or YOLO Model for prediction.
-<<<<<<< HEAD
+
 4. View results, including disease class, confidence score, and additional description (if available).
-=======
-4. View results, including disease class, confidence score, and additional description (if available).
+
+5. View results, including disease class, confidence score, and additional description (if available).
 
