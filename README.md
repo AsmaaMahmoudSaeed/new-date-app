@@ -64,5 +64,4 @@ This will launch the Streamlit application in your default web browser.
 
 4. View results, including disease class, confidence score, and additional description (if available).
 
-5. View results, including disease class, confidence score, and additional description (if available).
 
